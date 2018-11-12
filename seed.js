@@ -1,4 +1,7 @@
-const {db} = require('./model');
+const {db, Gardener, Plot, Vegetable} = require('./model');
+
+
+// const someaVeg = Vegetable.build({})
 
 
 
